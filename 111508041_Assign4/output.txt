@@ -1,0 +1,4 @@
+They_PRP make_VBP the_DT arguement_NN in_IN the_DT letters_NN to_TO the_DT agency_NN
+so_RB he_PRP was_VBD going_VBG to_TO play_VB her_PRP$ favourite_NN tune_IN
+he_PRP was_VBD going_VBG to_TO submit_VB their_PRP$ records_NNS
+she_PRP went_VBD to_TO cry_VB

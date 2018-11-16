@@ -1,0 +1,1 @@
+POS_CURR        PREV2_WORD         PREV2_TAG  PREV_WORD          PREV_TAG   NEXT_WORD          NEXT_TAG   NEXT2_WORD         NEXT2_TAG 

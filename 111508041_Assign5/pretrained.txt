@@ -1,0 +1,10 @@
+Barack_PERSON Obama_PERSON was the former president of United_LOCATION States_LOCATION of_LOCATION America_LOCATION.
+Mark_PERSON was born on 29_DATE September_DATE 1980_DATE at 12:36_TIME PM_TIME.
+Mahatma_PERSON Gandhi_PERSON fought for the independence of India_LOCATION.
+Kate_PERSON lives in Kolkata_LOCATION.
+Alan_PERSON works at Microsoft_ORGANIZATION.
+While in France_LOCATION, Christine_PERSON Lagarde_PERSON discussed short-term stimulus efforts in a recent interview with the Wall_ORGANIZATION Street_ORGANIZATION Journal_ORGANIZATION.
+Germany_LOCATION imported 45000 sheep from Britain_LOCATION in year 2009_DATE.
+Barack_PERSON Obama_PERSON was born on 4_DATE August_DATE 1961_DATE in Honolulu_LOCATION, Hawaii_LOCATION which was 4 days ago.
+EU_ORGANIZATION rejects German call.
+Hitler_PERSON was from Germany_LOCATION.
